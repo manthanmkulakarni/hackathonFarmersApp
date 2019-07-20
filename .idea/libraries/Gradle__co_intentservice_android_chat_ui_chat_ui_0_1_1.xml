@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: co.intentservice.android-chat-ui:chat-ui-0.1.1">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.android/build-cache/e2652db2e67093ec9e3f67643cda5d7c6d2c09d0/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/e2652db2e67093ec9e3f67643cda5d7c6d2c09d0/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/e2652db2e67093ec9e3f67643cda5d7c6d2c09d0/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.intentservice.android-chat-ui/chat-ui/0.1.1/f61077f25a6c263b8a79ce5da18ce9a66bc7126b/chat-ui-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

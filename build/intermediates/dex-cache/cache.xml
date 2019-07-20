@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\app\RHOKHackathon-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8c182a10276987cc8c24c505ef8db281bd6742b">
+        <dex dex="E:\app\RHOKHackathon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_02bf7f727a0595fa52590fddcc209325cb0e01e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\RHOKHackathon-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfb6e58103895f61b5e86fce360d2f4892b0d704">
+        <dex dex="D:\RHOKHackathon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_209590c328d782d23133ab5bbcc1a1a1482ff641\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\RHOKHackathon-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\RHOKHackathon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ba5994fad43ccd5ea90f7ad0c7ba0aa063d3c810\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\app\RHOKHackathon-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\app\RHOKHackathon-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8b8047a45e8ccadea7a99ec50862567003c3be2b\classes.dex" />
+    </item>
+
+</items>

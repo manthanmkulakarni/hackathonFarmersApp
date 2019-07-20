@@ -1,0 +1,142 @@
+[
+    {
+        "outputFile": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/Users/manthanmkulakarni/.android/build-cache/74a68755dabafccc3ae5e28e7f6d5a0d203948de/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 69,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 63,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 250,
+                    "endColumn": 70,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 67,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 82,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/values-land/refs.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 82,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "/Users/manthanmkulakarni/.android/build-cache/cf24e0d67ea2b06f7c4087435d60c133bd5d594a/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]

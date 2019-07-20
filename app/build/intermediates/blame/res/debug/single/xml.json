@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/xml/authenticator.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/xml/authenticator.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/xml/syncadapter.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/xml/syncadapter.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/xml/pref_general.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/xml/pref_general.xml"
+    }
+]

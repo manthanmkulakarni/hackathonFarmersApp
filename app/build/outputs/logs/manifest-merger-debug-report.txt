@@ -1,0 +1,709 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:2:1-122:12
+	package
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:4:5-49
+		INJECTED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7f73ca2b8fd8f7adf131c2e781842538918b1143/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef40207fd1e312b7d77f6bbeeace59bc44121291/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/aa29f335a77d37622073a138e86e1f121008ec00/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.0.0] /Users/manthanmkulakarni/.android/build-cache/55f1b03d68f200ddb54da4662feabd04bbbdb7ac/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7fdd53531ef9aba8ad562e9dc09af6f948912fc3/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/e23101d1d02fab3139ca1dafd7f26d0df57720c7/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] /Users/manthanmkulakarni/.android/build-cache/6bc8d082142ab8374b9956efeee1a68e50f4d7f8/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] /Users/manthanmkulakarni/.android/build-cache/1b86c442beac381206990abf7bcab3a64c661f83/output/AndroidManifest.xml:21:5-66
+MERGED from [net.gotev:speech:1.1.7] /Users/manthanmkulakarni/.android/build-cache/5235ab9b87b23c34bf7c139297c33fcce52e0818/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ca06bff9023b1058d099e5e0a5860971f0e3d900/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:7:5-71
+MERGED from [net.gotev:speech:1.1.7] /Users/manthanmkulakarni/.android/build-cache/5235ab9b87b23c34bf7c139297c33fcce52e0818/output/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7f73ca2b8fd8f7adf131c2e781842538918b1143/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef40207fd1e312b7d77f6bbeeace59bc44121291/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.0.0] /Users/manthanmkulakarni/.android/build-cache/2bd8b535d017463d026cd53c31eaa975edd86afa/output/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] /Users/manthanmkulakarni/.android/build-cache/6bc8d082142ab8374b9956efeee1a68e50f4d7f8/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] /Users/manthanmkulakarni/.android/build-cache/1b86c442beac381206990abf7bcab3a64c661f83/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ca06bff9023b1058d099e5e0a5860971f0e3d900/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:10:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:15:5-120:19
+MERGED from [ai.api:sdk:2.0.2] /Users/manthanmkulakarni/.android/build-cache/7311b961753b78d0c7974932587f767ca1e8e54b/output/AndroidManifest.xml:11:5-20
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] /Users/manthanmkulakarni/.android/build-cache/21559d95b8bb38f765e63e65a6149ee448a232d1/output/AndroidManifest.xml:11:5-15:19
+MERGED from [cn.pedant.sweetalert:library:1.3] /Users/manthanmkulakarni/.android/build-cache/3118db07086d7862fa16631a5268dab2592635d1/output/AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.0] /Users/manthanmkulakarni/.android/build-cache/e4e6a7ac89a55b0786f8885c8cb26bfd3a3995a0/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.gabrielemariotti.cards:cardslib-extra-staggeredgrid:2.1.0] /Users/manthanmkulakarni/.android/build-cache/5fd176104a98a0222bd26d2764c9ec0af1eb4e81/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.etsy.android.grid:library:1.0.5] /Users/manthanmkulakarni/.android/build-cache/4e2071325cf490c96e7dfc8b000357a26d8c68b5/output/AndroidManifest.xml:6:5-19
+MERGED from [com.nightonke:boommenu:2.0.6] /Users/manthanmkulakarni/.android/build-cache/8940bdbb76cd8df74620d2ef44be4be1238be264/output/AndroidManifest.xml:11:5-14:19
+MERGED from [co.intentservice.android-chat-ui:chat-ui:0.1.1] /Users/manthanmkulakarni/.android/build-cache/e2652db2e67093ec9e3f67643cda5d7c6d2c09d0/output/AndroidManifest.xml:11:5-15:19
+MERGED from [pl.tajchert:waitingdots:0.2.0] /Users/manthanmkulakarni/.android/build-cache/e10c7651304ec7693aa17688ca6839c43a38fef0/output/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.gabrielemariotti.cards:cardslib-cards:2.1.0] /Users/manthanmkulakarni/.android/build-cache/d9fc1f4f315b4e3509f4dd0481d17e2aed9b1543/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.github.gabrielemariotti.cards:cardslib-core:2.1.0] /Users/manthanmkulakarni/.android/build-cache/fe561bb684186f6723f7383fb604fbb339cda1c8/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.android.support:cardview-v7:24.0.0] /Users/manthanmkulakarni/.android/build-cache/f4482ae7b878cc00ee1e39651a4b15449f95c28e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] /Users/manthanmkulakarni/.android/build-cache/cf24e0d67ea2b06f7c4087435d60c133bd5d594a/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ac726d013023e22ce73a929c7194a7076a7ebd3e/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7f73ca2b8fd8f7adf131c2e781842538918b1143/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef40207fd1e312b7d77f6bbeeace59bc44121291/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/aa29f335a77d37622073a138e86e1f121008ec00/output/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.0.0] /Users/manthanmkulakarni/.android/build-cache/3ca8fb0077f17666e23f4c9d9b6abc8e560c137a/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast:9.0.0] /Users/manthanmkulakarni/.android/build-cache/eb99ece3c1251266b0b70e3e55eaf5deeffb80fa/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/manthanmkulakarni/.android/build-cache/a3c26616cda492f6e342b314705a501d7a28bcec/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:9.0.0] /Users/manthanmkulakarni/.android/build-cache/d689b780939755361c95b32477efb1dc58d0babb/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.0.0] /Users/manthanmkulakarni/.android/build-cache/55f1b03d68f200ddb54da4662feabd04bbbdb7ac/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] /Users/manthanmkulakarni/.android/build-cache/f95befba2c9ede4f5f0e56541569217c8282571c/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ea61724fb732b0fbd88d8fc7f7d091882655649f/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.0.0] /Users/manthanmkulakarni/.android/build-cache/4f2418c6878674bbcb1c36a9310c316903b4c4c3/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.0.0] /Users/manthanmkulakarni/.android/build-cache/43d596e7115dddba04e4ed464d93d2f85b6f874a/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.0.0] /Users/manthanmkulakarni/.android/build-cache/c33ac5089240058158438434f8e89c9f8c3a7874/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7fdd53531ef9aba8ad562e9dc09af6f948912fc3/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.0] /Users/manthanmkulakarni/.android/build-cache/cd2e99a466ce163b5776da1736c8ba049790f755/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/e23101d1d02fab3139ca1dafd7f26d0df57720c7/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5ba5640c790961e92d364400ddbbe8c6ffd96e51/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.0.0] /Users/manthanmkulakarni/.android/build-cache/2bd8b535d017463d026cd53c31eaa975edd86afa/output/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.0.0] /Users/manthanmkulakarni/.android/build-cache/41c350de70f9e8160d6d7bca25aff6b53f02fc09/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.0.0] /Users/manthanmkulakarni/.android/build-cache/2ec72c7bb692c1ef0b8bb39d41c581c1b69a10d6/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.0.0] /Users/manthanmkulakarni/.android/build-cache/303d4f14e7fb949f6acfc76568a61ca83123901a/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] /Users/manthanmkulakarni/.android/build-cache/6bc8d082142ab8374b9956efeee1a68e50f4d7f8/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] /Users/manthanmkulakarni/.android/build-cache/4e01fa33a1f5c8183bbc45ee09f8de07d9d5a526/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ad7ff296d54d311cc4f5eb7780be87b191d866ba/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] /Users/manthanmkulakarni/.android/build-cache/1b86c442beac381206990abf7bcab3a64c661f83/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.0.0] /Users/manthanmkulakarni/.android/build-cache/40d8e0628a5e7849d80d39246e43cfde1ccec427/output/AndroidManifest.xml:19:5-20
+MERGED from [com.github.florent37:awesomebar:1.0.2] /Users/manthanmkulakarni/.android/build-cache/9dc53bf68c7b8536f32ee2645d5c11225d3b4028/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/manthanmkulakarni/.android/build-cache/a7187ee439fbfed8255d81dd5a0e21b4bf2e2785/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/manthanmkulakarni/.android/build-cache/6289b8014bbb124fface337f5254a73210f310ff/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/manthanmkulakarni/.android/build-cache/76df7630234dd7dea5834276c558835599a7e428/output/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /Users/manthanmkulakarni/.android/build-cache/d2074ee1d0d16cfcba5e80c06b6f1c0831020b48/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /Users/manthanmkulakarni/.android/build-cache/5f467230adcd5851c22d64c0aa715a98fe8d12fe/output/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/manthanmkulakarni/.android/build-cache/440cb53f8b9b2191b1f1230143cb2d5aad9d6d94/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/manthanmkulakarni/.android/build-cache/a29d73f3bfbb8d125e1c76024d9a05f07fafd286/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ca06bff9023b1058d099e5e0a5860971f0e3d900/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/manthanmkulakarni/.android/build-cache/e924768ab4771f4eae67c528ad0ce511a4513399/output/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/manthanmkulakarni/.android/build-cache/4784f90b750504cd886cb7d073bfa27540d555eb/output/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/manthanmkulakarni/.android/build-cache/960aae4546eaa5c65ddc61fb32fe49e7f82e0f0a/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/manthanmkulakarni/.android/build-cache/3775b3249dfb9a8584e1098c16907523e6dc2e35/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/manthanmkulakarni/.android/build-cache/138776bbb4c3cceb6279b576d5765f55cc38eb68/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/manthanmkulakarni/.android/build-cache/d495e58a59bfa9976e0ba14b48580fefd2ac709d/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/manthanmkulakarni/.android/build-cache/2c89f8ce60974bbc38bdce0b82bba3374ff79705/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/manthanmkulakarni/.android/build-cache/9398c09bdcb835807b8cead188f830e51f2a7213/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/manthanmkulakarni/.android/build-cache/e681bfb8122ece5a16d93f973e9a9b13c5d6d986/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/manthanmkulakarni/.android/build-cache/da4d06eda73cdcee7e33ab76697620b6b0377624/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/manthanmkulakarni/.android/build-cache/acd18bcdc0191c27fa55b04c7c5b377fe6ee33e6/output/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:19:9-41
+	android:supportsRtl
+		ADDED from [me.itangqi.waveloadingview:library:0.3.5] /Users/manthanmkulakarni/.android/build-cache/21559d95b8bb38f765e63e65a6149ee448a232d1/output/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:18:9-43
+		REJECTED from [com.pnikosis:materialish-progress:1.0] /Users/manthanmkulakarni/.android/build-cache/e4e6a7ac89a55b0786f8885c8cb26bfd3a3995a0/output/AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:20:9-40
+	tools:replace
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:21:9-37
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:16:9-38
+activity#com.arshilgenius.kisan.agriculture.LaboursConstructors
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:22:9-57
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:22:19-54
+activity#com.arshilgenius.kisan.agriculture.LabourActivity1
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:23:19-50
+activity#com.arshilgenius.kisan.agriculture.Labour
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:24:19-41
+activity#com.arshilgenius.kisan.agriculture.Boss
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:25:9-42
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:25:19-39
+activity#com.arshilgenius.kisan.agriculture.Labouractivity
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:26:19-49
+activity#com.arshilgenius.kisan.agriculture.Activity.Wheat
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:27:9-52
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:27:19-49
+activity#com.arshilgenius.kisan.agriculture.Activity.Paddy
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:28:9-52
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:28:19-49
+activity#com.arshilgenius.kisan.agriculture.MyActivity
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:29:9-48
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:29:19-45
+activity#com.arshilgenius.kisan.agriculture.DetailActivity
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:32:13-58
+	android:parentActivityName
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:33:13-55
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:31:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:34:13-36:83
+	android:value
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:36:17-80
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:35:17-63
+activity#com.arshilgenius.kisan.agriculture.SettingsActivity
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:38:9-46:20
+	android:label
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:40:13-60
+	android:parentActivityName
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:41:13-55
+	android:theme
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:39:13-45
+provider#com.arshilgenius.kisan.agriculture.data.WeatherProvider
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:48:9-52:39
+	android:authorities
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:50:13-60
+	android:syncable
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:52:13-36
+	android:exported
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:49:13-49
+service#com.arshilgenius.kisan.agriculture.sync.SunshineAuthenticatorService
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:53:9-61:19
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:53:18-67
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:54:13-56:29
+action#android.accounts.AccountAuthenticator
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:55:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:58:13-60:57
+	android:resource
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:60:17-54
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:59:17-69
+service#com.arshilgenius.kisan.agriculture.sync.SunshineSyncService
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:62:9-72:19
+	android:exported
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:64:13-36
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:63:13-53
+intent-filter#android.content.SyncAdapter
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:65:13-67:29
+action#android.content.SyncAdapter
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:66:17-70
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:66:25-67
+meta-data#android.content.SyncAdapter
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:69:13-71:55
+	android:resource
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:71:17-52
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:70:17-59
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:74:9-76:71
+	android:value
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:76:13-68
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:75:13-58
+activity#com.arshilgenius.kisan.agriculture.MainActivity
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:78:9-80:48
+	android:label
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:80:13-45
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:79:13-41
+activity#com.arshilgenius.kisan.agriculture.menuscreen
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:81:9-83:65
+	android:label
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:83:13-62
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:82:13-39
+activity#com.arshilgenius.kisan.agriculture.orders
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:84:9-87:58
+	android:label
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:86:13-44
+	android:parentActivityName
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:87:13-55
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:85:13-35
+activity#com.arshilgenius.kisan.agriculture.newsmain
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:88:9-91:58
+	android:label
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:90:13-33
+	android:parentActivityName
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:91:13-55
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:89:13-37
+activity#com.arshilgenius.kisan.agriculture.MapsActivity
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:92:9-95:58
+	android:label
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:94:13-33
+	android:parentActivityName
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:95:13-55
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:93:13-41
+activity#com.arshilgenius.kisan.agriculture.sunmain
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:96:9-99:58
+	android:label
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:98:13-45
+	android:parentActivityName
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:99:13-55
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:97:13-36
+activity#com.arshilgenius.kisan.agriculture.forum
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:100:9-103:58
+	android:label
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:102:13-57
+	android:parentActivityName
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:103:13-55
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:101:13-34
+activity#com.arshilgenius.kisan.agriculture.farmerActivity
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:104:9-52
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:104:19-49
+activity#com.arshilgenius.kisan.agriculture.budgetActivity
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:105:9-52
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:105:19-49
+activity#com.arshilgenius.kisan.agriculture.createlisting
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:106:9-51
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:106:19-48
+activity#com.arshilgenius.kisan.agriculture.loginOrSignup
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:107:9-113:20
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:107:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:108:13-112:29
+action#android.intent.action.MAIN
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:109:17-69
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:109:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:111:17-77
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:111:27-74
+activity#com.arshilgenius.kisan.agriculture.login
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:114:9-43
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:114:19-40
+activity#com.arshilgenius.kisan.agriculture.signup
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:115:9-44
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:115:19-41
+activity#com.arshilgenius.kisan.agriculture.Main2Activity
+ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:116:9-119:68
+	android:label
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:118:13-57
+	android:theme
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:119:13-56
+	android:name
+		ADDED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml:117:13-42
+uses-sdk
+INJECTED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /Users/manthanmkulakarni/.android/build-cache/c0892b578b21d33db3371a721340b757d4c5adf3/output/AndroidManifest.xml:18:5-42
+MERGED from [ai.api:sdk:2.0.2] /Users/manthanmkulakarni/.android/build-cache/7311b961753b78d0c7974932587f767ca1e8e54b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] /Users/manthanmkulakarni/.android/build-cache/21559d95b8bb38f765e63e65a6149ee448a232d1/output/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.pedant.sweetalert:library:1.3] /Users/manthanmkulakarni/.android/build-cache/3118db07086d7862fa16631a5268dab2592635d1/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] /Users/manthanmkulakarni/.android/build-cache/e4e6a7ac89a55b0786f8885c8cb26bfd3a3995a0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.gabrielemariotti.cards:cardslib-extra-staggeredgrid:2.1.0] /Users/manthanmkulakarni/.android/build-cache/5fd176104a98a0222bd26d2764c9ec0af1eb4e81/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.etsy.android.grid:library:1.0.5] /Users/manthanmkulakarni/.android/build-cache/4e2071325cf490c96e7dfc8b000357a26d8c68b5/output/AndroidManifest.xml:4:5-43
+MERGED from [com.nightonke:boommenu:2.0.6] /Users/manthanmkulakarni/.android/build-cache/8940bdbb76cd8df74620d2ef44be4be1238be264/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /Users/manthanmkulakarni/.android/build-cache/9660ea601b63de2b03764eb4a5099e8b8e029267/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.beardedhen:androidbootstrap:2.3.0] /Users/manthanmkulakarni/.android/build-cache/e77c9f199787c3237779ffaa092512c61755b611/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.dmytrodanylyk.android-process-button:library:1.0.4] /Users/manthanmkulakarni/.android/build-cache/ee64a51cce53ffe6331cc3469ed3687fba9c2bfd/output/AndroidManifest.xml:8:5-10:41
+MERGED from [co.intentservice.android-chat-ui:chat-ui:0.1.1] /Users/manthanmkulakarni/.android/build-cache/e2652db2e67093ec9e3f67643cda5d7c6d2c09d0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.tajchert:waitingdots:0.2.0] /Users/manthanmkulakarni/.android/build-cache/e10c7651304ec7693aa17688ca6839c43a38fef0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.gabrielemariotti.cards:cardslib-cards:2.1.0] /Users/manthanmkulakarni/.android/build-cache/d9fc1f4f315b4e3509f4dd0481d17e2aed9b1543/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.github.gabrielemariotti.cards:cardslib-core:2.1.0] /Users/manthanmkulakarni/.android/build-cache/fe561bb684186f6723f7383fb604fbb339cda1c8/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:24.0.0] /Users/manthanmkulakarni/.android/build-cache/f4482ae7b878cc00ee1e39651a4b15449f95c28e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.roughike:bottom-bar:2.0.2] /Users/manthanmkulakarni/.android/build-cache/74a68755dabafccc3ae5e28e7f6d5a0d203948de/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:23.4.0] /Users/manthanmkulakarni/.android/build-cache/cf24e0d67ea2b06f7c4087435d60c133bd5d594a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] /Users/manthanmkulakarni/.android/build-cache/ee02f50a347bb104925196e9dd97a9ea6d294072/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ac726d013023e22ce73a929c7194a7076a7ebd3e/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.0.0] /Users/manthanmkulakarni/.android/build-cache/0fcf9377524adc81d90cc1857dcb06f1260cd48d/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7f73ca2b8fd8f7adf131c2e781842538918b1143/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef40207fd1e312b7d77f6bbeeace59bc44121291/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/aa29f335a77d37622073a138e86e1f121008ec00/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.0.0] /Users/manthanmkulakarni/.android/build-cache/3ca8fb0077f17666e23f4c9d9b6abc8e560c137a/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cast:9.0.0] /Users/manthanmkulakarni/.android/build-cache/eb99ece3c1251266b0b70e3e55eaf5deeffb80fa/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/manthanmkulakarni/.android/build-cache/a3c26616cda492f6e342b314705a501d7a28bcec/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-config:9.0.0] /Users/manthanmkulakarni/.android/build-cache/d689b780939755361c95b32477efb1dc58d0babb/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.0.0] /Users/manthanmkulakarni/.android/build-cache/55f1b03d68f200ddb54da4662feabd04bbbdb7ac/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] /Users/manthanmkulakarni/.android/build-cache/f95befba2c9ede4f5f0e56541569217c8282571c/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.0] /Users/manthanmkulakarni/.android/build-cache/8b1920febc4a485817a1a5c7f5a78754be182fb3/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ea61724fb732b0fbd88d8fc7f7d091882655649f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.0.0] /Users/manthanmkulakarni/.android/build-cache/538601fc8eddf1eb77ec61635dd090e28d126e83/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.0.0] /Users/manthanmkulakarni/.android/build-cache/49289cf68d7598404aca5c62823975e94cbd7eac/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.0.0] /Users/manthanmkulakarni/.android/build-cache/4f2418c6878674bbcb1c36a9310c316903b4c4c3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.0.0] /Users/manthanmkulakarni/.android/build-cache/43d596e7115dddba04e4ed464d93d2f85b6f874a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.0.0] /Users/manthanmkulakarni/.android/build-cache/c33ac5089240058158438434f8e89c9f8c3a7874/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7fdd53531ef9aba8ad562e9dc09af6f948912fc3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.0] /Users/manthanmkulakarni/.android/build-cache/cd2e99a466ce163b5776da1736c8ba049790f755/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/e23101d1d02fab3139ca1dafd7f26d0df57720c7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5ba5640c790961e92d364400ddbbe8c6ffd96e51/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.0.0] /Users/manthanmkulakarni/.android/build-cache/2bd8b535d017463d026cd53c31eaa975edd86afa/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.0.0] /Users/manthanmkulakarni/.android/build-cache/41c350de70f9e8160d6d7bca25aff6b53f02fc09/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.0.0] /Users/manthanmkulakarni/.android/build-cache/2ec72c7bb692c1ef0b8bb39d41c581c1b69a10d6/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.0.0] /Users/manthanmkulakarni/.android/build-cache/77ae96a5a71e1de679e228447ed943bff45014b3/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:9.0.0] /Users/manthanmkulakarni/.android/build-cache/303d4f14e7fb949f6acfc76568a61ca83123901a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.0.0] /Users/manthanmkulakarni/.android/build-cache/e1dea17eb7bd5b94a0e8ac4026b117b23bf147cd/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] /Users/manthanmkulakarni/.android/build-cache/6bc8d082142ab8374b9956efeee1a68e50f4d7f8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] /Users/manthanmkulakarni/.android/build-cache/4e01fa33a1f5c8183bbc45ee09f8de07d9d5a526/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.0.0] /Users/manthanmkulakarni/.android/build-cache/f7a7ebbb9d52f0884eec03e4eef8de5221dfa83e/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ad7ff296d54d311cc4f5eb7780be87b191d866ba/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] /Users/manthanmkulakarni/.android/build-cache/1b86c442beac381206990abf7bcab3a64c661f83/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.0.0] /Users/manthanmkulakarni/.android/build-cache/40d8e0628a5e7849d80d39246e43cfde1ccec427/output/AndroidManifest.xml:18:5-42
+MERGED from [net.gotev:speech:1.1.7] /Users/manthanmkulakarni/.android/build-cache/5235ab9b87b23c34bf7c139297c33fcce52e0818/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.florent37:awesomebar:1.0.2] /Users/manthanmkulakarni/.android/build-cache/9dc53bf68c7b8536f32ee2645d5c11225d3b4028/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/manthanmkulakarni/.android/build-cache/a7187ee439fbfed8255d81dd5a0e21b4bf2e2785/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/manthanmkulakarni/.android/build-cache/6289b8014bbb124fface337f5254a73210f310ff/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/manthanmkulakarni/.android/build-cache/083a9e702bad21f1f9901bb4d8778669e3fdf098/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/manthanmkulakarni/.android/build-cache/76df7630234dd7dea5834276c558835599a7e428/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:11.6.0] /Users/manthanmkulakarni/.android/build-cache/50648c4f8ea2667bb9ffb90a0aab075940d04d4d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /Users/manthanmkulakarni/.android/build-cache/44cb67fe76bfaae009c4bee6180ddb669e8cbc0d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /Users/manthanmkulakarni/.android/build-cache/d2074ee1d0d16cfcba5e80c06b6f1c0831020b48/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /Users/manthanmkulakarni/.android/build-cache/5f467230adcd5851c22d64c0aa715a98fe8d12fe/output/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/manthanmkulakarni/.android/build-cache/440cb53f8b9b2191b1f1230143cb2d5aad9d6d94/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/manthanmkulakarni/.android/build-cache/a29d73f3bfbb8d125e1c76024d9a05f07fafd286/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ca06bff9023b1058d099e5e0a5860971f0e3d900/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/manthanmkulakarni/.android/build-cache/e924768ab4771f4eae67c528ad0ce511a4513399/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/manthanmkulakarni/.android/build-cache/4784f90b750504cd886cb7d073bfa27540d555eb/output/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/manthanmkulakarni/.android/build-cache/960aae4546eaa5c65ddc61fb32fe49e7f82e0f0a/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/manthanmkulakarni/.android/build-cache/3775b3249dfb9a8584e1098c16907523e6dc2e35/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/manthanmkulakarni/.android/build-cache/138776bbb4c3cceb6279b576d5765f55cc38eb68/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/manthanmkulakarni/.android/build-cache/d495e58a59bfa9976e0ba14b48580fefd2ac709d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/manthanmkulakarni/.android/build-cache/2c89f8ce60974bbc38bdce0b82bba3374ff79705/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/manthanmkulakarni/.android/build-cache/9398c09bdcb835807b8cead188f830e51f2a7213/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/manthanmkulakarni/.android/build-cache/e681bfb8122ece5a16d93f973e9a9b13c5d6d986/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/manthanmkulakarni/.android/build-cache/da4d06eda73cdcee7e33ab76697620b6b0377624/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/manthanmkulakarni/.android/build-cache/acd18bcdc0191c27fa55b04c7c5b377fe6ee33e6/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] /Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7f73ca2b8fd8f7adf131c2e781842538918b1143/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7f73ca2b8fd8f7adf131c2e781842538918b1143/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7f73ca2b8fd8f7adf131c2e781842538918b1143/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7f73ca2b8fd8f7adf131c2e781842538918b1143/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7f73ca2b8fd8f7adf131c2e781842538918b1143/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7f73ca2b8fd8f7adf131c2e781842538918b1143/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7f73ca2b8fd8f7adf131c2e781842538918b1143/output/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef40207fd1e312b7d77f6bbeeace59bc44121291/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] /Users/manthanmkulakarni/.android/build-cache/6bc8d082142ab8374b9956efeee1a68e50f4d7f8/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ca06bff9023b1058d099e5e0a5860971f0e3d900/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef40207fd1e312b7d77f6bbeeace59bc44121291/output/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/aa29f335a77d37622073a138e86e1f121008ec00/output/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/aa29f335a77d37622073a138e86e1f121008ec00/output/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/aa29f335a77d37622073a138e86e1f121008ec00/output/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/aa29f335a77d37622073a138e86e1f121008ec00/output/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/aa29f335a77d37622073a138e86e1f121008ec00/output/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/aa29f335a77d37622073a138e86e1f121008ec00/output/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/aa29f335a77d37622073a138e86e1f121008ec00/output/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/aa29f335a77d37622073a138e86e1f121008ec00/output/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] /Users/manthanmkulakarni/.android/build-cache/aa29f335a77d37622073a138e86e1f121008ec00/output/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.0.0] /Users/manthanmkulakarni/.android/build-cache/3ca8fb0077f17666e23f4c9d9b6abc8e560c137a/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /Users/manthanmkulakarni/.android/build-cache/3ca8fb0077f17666e23f4c9d9b6abc8e560c137a/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /Users/manthanmkulakarni/.android/build-cache/3ca8fb0077f17666e23f4c9d9b6abc8e560c137a/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /Users/manthanmkulakarni/.android/build-cache/3ca8fb0077f17666e23f4c9d9b6abc8e560c137a/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /Users/manthanmkulakarni/.android/build-cache/3ca8fb0077f17666e23f4c9d9b6abc8e560c137a/output/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.0.0] /Users/manthanmkulakarni/.android/build-cache/3ca8fb0077f17666e23f4c9d9b6abc8e560c137a/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /Users/manthanmkulakarni/.android/build-cache/3ca8fb0077f17666e23f4c9d9b6abc8e560c137a/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /Users/manthanmkulakarni/.android/build-cache/3ca8fb0077f17666e23f4c9d9b6abc8e560c137a/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] /Users/manthanmkulakarni/.android/build-cache/3ca8fb0077f17666e23f4c9d9b6abc8e560c137a/output/AndroidManifest.xml:29:13-58
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.0.0] /Users/manthanmkulakarni/.android/build-cache/55f1b03d68f200ddb54da4662feabd04bbbdb7ac/output/AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.0.0] /Users/manthanmkulakarni/.android/build-cache/55f1b03d68f200ddb54da4662feabd04bbbdb7ac/output/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.0.0] /Users/manthanmkulakarni/.android/build-cache/55f1b03d68f200ddb54da4662feabd04bbbdb7ac/output/AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.0.0] /Users/manthanmkulakarni/.android/build-cache/55f1b03d68f200ddb54da4662feabd04bbbdb7ac/output/AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.0.0] /Users/manthanmkulakarni/.android/build-cache/55f1b03d68f200ddb54da4662feabd04bbbdb7ac/output/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.0.0] /Users/manthanmkulakarni/.android/build-cache/55f1b03d68f200ddb54da4662feabd04bbbdb7ac/output/AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ea61724fb732b0fbd88d8fc7f7d091882655649f/output/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ea61724fb732b0fbd88d8fc7f7d091882655649f/output/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ea61724fb732b0fbd88d8fc7f7d091882655649f/output/AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ea61724fb732b0fbd88d8fc7f7d091882655649f/output/AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ea61724fb732b0fbd88d8fc7f7d091882655649f/output/AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ea61724fb732b0fbd88d8fc7f7d091882655649f/output/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ea61724fb732b0fbd88d8fc7f7d091882655649f/output/AndroidManifest.xml:28:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7fdd53531ef9aba8ad562e9dc09af6f948912fc3/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/e23101d1d02fab3139ca1dafd7f26d0df57720c7/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.0.0] /Users/manthanmkulakarni/.android/build-cache/7fdd53531ef9aba8ad562e9dc09af6f948912fc3/output/AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ef53e1b7edb2dca5f374c580962c10a727871a04/output/AndroidManifest.xml:35:27-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.0.0] /Users/manthanmkulakarni/.android/build-cache/1b86c442beac381206990abf7bcab3a64c661f83/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.0.0] /Users/manthanmkulakarni/.android/build-cache/1b86c442beac381206990abf7bcab3a64c661f83/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.0.0] /Users/manthanmkulakarni/.android/build-cache/1b86c442beac381206990abf7bcab3a64c661f83/output/AndroidManifest.xml:24:8-31
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:31:9-35:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] /Users/manthanmkulakarni/.android/build-cache/e43bf847f479aa31d8a7cf9c040a55885d2e8b7b/output/AndroidManifest.xml:33:17-109
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ca06bff9023b1058d099e5e0a5860971f0e3d900/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/manthanmkulakarni/.android/build-cache/ca06bff9023b1058d099e5e0a5860971f0e3d900/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/manthanmkulakarni/.android/build-cache/13580f34926e6b8f605892c5a0f78c6c86464bc3/output/AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/manthanmkulakarni/.android/build-cache/e924768ab4771f4eae67c528ad0ce511a4513399/output/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/manthanmkulakarni/.android/build-cache/e924768ab4771f4eae67c528ad0ce511a4513399/output/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/manthanmkulakarni/.android/build-cache/e924768ab4771f4eae67c528ad0ce511a4513399/output/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/manthanmkulakarni/.android/build-cache/e924768ab4771f4eae67c528ad0ce511a4513399/output/AndroidManifest.xml:24:13-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/manthanmkulakarni/.android/build-cache/5525a61c9f07f680e29dff897c4666f181346b3b/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/manthanmkulakarni/.android/build-cache/4784f90b750504cd886cb7d073bfa27540d555eb/output/AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/manthanmkulakarni/.android/build-cache/4784f90b750504cd886cb7d073bfa27540d555eb/output/AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/manthanmkulakarni/.android/build-cache/4784f90b750504cd886cb7d073bfa27540d555eb/output/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/manthanmkulakarni/.android/build-cache/4784f90b750504cd886cb7d073bfa27540d555eb/output/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/manthanmkulakarni/.android/build-cache/4784f90b750504cd886cb7d073bfa27540d555eb/output/AndroidManifest.xml:10:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/manthanmkulakarni/.android/build-cache/3775b3249dfb9a8584e1098c16907523e6dc2e35/output/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/manthanmkulakarni/.android/build-cache/3775b3249dfb9a8584e1098c16907523e6dc2e35/output/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/manthanmkulakarni/.android/build-cache/3775b3249dfb9a8584e1098c16907523e6dc2e35/output/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/manthanmkulakarni/.android/build-cache/138776bbb4c3cceb6279b576d5765f55cc38eb68/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/manthanmkulakarni/.android/build-cache/d495e58a59bfa9976e0ba14b48580fefd2ac709d/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/manthanmkulakarni/.android/build-cache/2c89f8ce60974bbc38bdce0b82bba3374ff79705/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/manthanmkulakarni/.android/build-cache/9398c09bdcb835807b8cead188f830e51f2a7213/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/manthanmkulakarni/.android/build-cache/e681bfb8122ece5a16d93f973e9a9b13c5d6d986/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/manthanmkulakarni/.android/build-cache/da4d06eda73cdcee7e33ab76697620b6b0377624/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/manthanmkulakarni/.android/build-cache/138776bbb4c3cceb6279b576d5765f55cc38eb68/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/manthanmkulakarni/.android/build-cache/138776bbb4c3cceb6279b576d5765f55cc38eb68/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/manthanmkulakarni/.android/build-cache/acd18bcdc0191c27fa55b04c7c5b377fe6ee33e6/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/manthanmkulakarni/.android/build-cache/acd18bcdc0191c27fa55b04c7c5b377fe6ee33e6/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/manthanmkulakarni/.android/build-cache/acd18bcdc0191c27fa55b04c7c5b377fe6ee33e6/output/AndroidManifest.xml:26:13-58

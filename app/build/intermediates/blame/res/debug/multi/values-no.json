@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-no/values-no.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 101,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "/Users/manthanmkulakarni/.android/build-cache/5ba5640c790961e92d364400ddbbe8c6ffd96e51/output/res/values-no/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 101,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 92,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "/Users/manthanmkulakarni/.android/build-cache/5ba5640c790961e92d364400ddbbe8c6ffd96e51/output/res/values-no/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 92,
+                        "endOffset": 465
+                    }
+                }
+            }
+        ]
+    }
+]

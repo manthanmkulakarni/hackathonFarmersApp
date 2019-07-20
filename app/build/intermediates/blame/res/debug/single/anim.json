@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/cf24e0d67ea2b06f7c4087435d60c133bd5d594a/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/cf24e0d67ea2b06f7c4087435d60c133bd5d594a/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/success_mask_layout.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/3118db07086d7862fa16631a5268dab2592635d1/output/res/anim/success_mask_layout.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/cf24e0d67ea2b06f7c4087435d60c133bd5d594a/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/success_bow_roate.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/3118db07086d7862fa16631a5268dab2592635d1/output/res/anim/success_bow_roate.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/cf24e0d67ea2b06f7c4087435d60c133bd5d594a/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/error_frame_in.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/3118db07086d7862fa16631a5268dab2592635d1/output/res/anim/error_frame_in.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/load_up_anum.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/anim/load_up_anum.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/modal_in.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/3118db07086d7862fa16631a5268dab2592635d1/output/res/anim/modal_in.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/cf24e0d67ea2b06f7c4087435d60c133bd5d594a/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/modal_out.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/3118db07086d7862fa16631a5268dab2592635d1/output/res/anim/modal_out.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/error_x_in.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/3118db07086d7862fa16631a5268dab2592635d1/output/res/anim/error_x_in.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/cf24e0d67ea2b06f7c4087435d60c133bd5d594a/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/anim/load_down_anum.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/anim/load_down_anum.xml"
+    }
+]

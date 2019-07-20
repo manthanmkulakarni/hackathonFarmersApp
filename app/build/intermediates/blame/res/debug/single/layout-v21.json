@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/f24ffc70396976656eed582bee18b4bcd210f29d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/manthanmkulakarni/.android/build-cache/5ba5640c790961e92d364400ddbbe8c6ffd96e51/output/res/layout-v21/place_autocomplete_fragment.xml"
+    }
+]

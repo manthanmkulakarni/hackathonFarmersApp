@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/menu/menu_menuscreen.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/menu/menu_menuscreen.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/menu/menu_orders.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/menu/menu_orders.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/menu/menu_forum.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/menu/menu_forum.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/menu/detailfragment.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/menu/detailfragment.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/menu/forecastfragment.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/menu/forecastfragment.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/menu/menu_createlisting.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/menu/menu_createlisting.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/menu/detail.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/menu/detail.xml"
+    },
+    {
+        "merged": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/manthanmkulakarni/Desktop/ju hackathon/RHOKHackathon-master/app/src/main/res/menu/main.xml"
+    }
+]
